@@ -1,0 +1,44 @@
+##################
+# First project idea
+
+## Objective
+
+Write a function that converts PO4 measurements from mg/L to mg/kg.
+
+## Rationale
+A colorimeter (Lachat QuikChem 8500 Series 2) is used to measure the concentration of ortho-PO4 from soil samples in the KSRE Soil Testing Lab. This instrument measures the concentration of the extracted solution (units = mg/L), but we need to report these concentrations in terms of the soil (mg/kg). Currently this is done "by-hand" in excel by most people in our group, but I really don't like copy/pasting things into a template since so many things can go wrong.
+
+##################
+# Second project idea
+
+## Objective
+Write a function that can be used by homeowners/gardeners to calculate the lbs of x nutrient per pound of bulk fertilizer material.
+
+## Rationale
+Fertilizer recommendations are usually reported in terms of lbs of x nutrient per area (100 or 1000 sqft). This can cause some confusion to homeowners and gardeners when its time to purchase and apply fertilizers because the fertilizers are never 100% pure. There are MANY different fertilizers and blends of fertilizers available to homeowners at lawn and garden supply stores. Each of these fertilizers may have a different NPK ratio which can make it difficult to pick the "best" one, and determine how much to apply. A web-based calculator could allow homeowners to figure out how much of a given fertilizer they need to apply to follow the recommended application rates from their soil test report. 
+
+#################
+# Third project idea
+
+## Objective:
+
+Write a function(s) to automate the calculation of lime and fertilizer recommendation based on soil test results from the KSRE Soil Testing Laboratory via a farmer-friendly GUI.
+
+## Rationale:
+
+Nutrient amendments are often the largest inputs to crop production systems in Kansas soils. Nutrient deficiencies resulting from under-fertilization can reduce crop yield and quality, as well as farm profitability. However, over-fertilization increases the risk of eutrophication and degradation of surface water and environmental quality. Fertilizer recommendations should be based on a soil test whenever possible to improve their accuracy. However, these calculations may involve several variables and can be cumbersome when calculated by hand. The KSRE Soil Testing Lab provides soil testing services and fertilizer recommendations to Kansas homeowners and producers. KSU has also published fact sheets explaining how soil tests are interpreted, and the equations used to calculate fertilizer application rates. The creation of a web-based calculator incorporating these equations would improve the public's accessibility to accurate fertilizer recommendations, and could serve as educational tools by allowing for "plug and play" demonstrations.
+
+## References
+
+MF-2586: Soil Test Inerpretations and Fertilizer Recommendations
+
+#################
+# Fourth project idea
+
+## Objectve:
+Same as Project Idea 3, except no web-based UI. This is more for QC on the lab end to check fertilizer application rates calculated and reported by STRS
+
+# Rationale:
+
+Right now the workflow for checking the accuracy of reported application rates is pretty painful when orders have n >~ 5 samples. A group of functions to automate data import and calculations would speed things up considerably and reduce risk of potential transcription errors. This could also be adapted into a web-based tool for use by the general public and educational purposes at some point in the future.
+
