@@ -13,4 +13,4 @@ Fertilizer ammendments are often required to correct nutrient deficiencies in ag
 
 ## References
 
-Department of Agronomy, Kansas State University, 2018, __MF-2586__: _Soil Test Inerpretations and Fertilizer Recommendations_
+__MF-2586__: _Soil Test Inerpretations and Fertilizer Recommendations_, 2018, Department of Agronomy, Kansas State University
