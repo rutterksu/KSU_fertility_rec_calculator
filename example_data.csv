@@ -1,0 +1,23 @@
+OrderNo,OrderDt,LabNo,CustSampName,Grower,Customer,pH,BUFpH,OM,NO3,NO3W,P,K,Ca,Mg,Na,Zn,Fe,Mn,Cu,S,Cl,SS,CECS,Al,B,Sand,Silt,Clay,YieldGoal,LimeApp,NApp1,P2O5AppBld1,P2O5App,K2OAppBld,K2OApp,ZnApp,SApp,BApp1,ClApp1,Crop,PrevCrop,Tillage,SampleDepth
+26634,4/10/2020,8238,BP-Ring S-N,"Doe, John","Doe, John",5.4,6.2,3.6,13,,20.8,363,,,,2.4,,,,,,,,,,,,,130,2350,50,,0,,0,0,,,,Corn,Soybeans,No-Till,12
+26634,4/10/2020,8238,BP-Ring S-N,"Doe, John","Doe, John",5.4,6.2,3.6,13,,20.8,363,,,,2.4,,,,,,,,,,,,,100,2350,5,,0,,0,0,,,,Sorghum Grain (Milo),Soybeans,No-Till,12
+26634,4/10/2020,8239,BP-Ring N-S,"Doe, John","Doe, John",6.5,6.8,4.5,25,,20.6,610,,,,0.9,,,,,,,,,,,,,130,0,0,,0,,0,1,,,,Corn,Soybeans,No-Till,12
+26634,4/10/2020,8239,BP-Ring N-S,"Doe, John","Doe, John",6.5,6.8,4.5,25,,20.6,610,,,,0.9,,,,,,,,,,,,,100,0,0,,0,,0,1,,,,Sorghum Grain (Milo),Soybeans,No-Till,12
+26634,4/10/2020,8240,BP-Ring S-S,"Doe, John","Doe, John",5.2,6.2,3.4,12,,17.7,344,,,,2.1,,,,,,,,,,,,,130,2350,55,,10,,0,0,,,,Corn,Soybeans,No-Till,12
+26634,4/10/2020,8240,BP-Ring S-S,"Doe, John","Doe, John",5.2,6.2,3.4,12,,17.7,344,,,,2.1,,,,,,,,,,,,,100,2350,10,,10,,0,0,,,,Sorghum Grain (Milo),Soybeans,No-Till,12
+26634,4/10/2020,8241,BP-Ring Sudan Hill,"Doe, John","Doe, John",5.6,6.3,3.4,3,,17.7,341,,,,0.7,,,,,,,,,,,,,130,2150,130,,10,,0,4,,,,Sorghum Grain (Milo),Sudan,No-Till,12
+26634,4/10/2020,8241,BP-Ring Sudan Hill,"Doe, John","Doe, John",5.6,6.3,3.4,3,,17.7,341,,,,0.7,,,,,,,,,,,,,50,2150,0,,10,,0,4,,,,Soybeans,Sudan,No-Till,12
+26634,4/10/2020,8242,BP-1,"Doe, John","Doe, John",6.2,6.5,2.4,6,,1.6,222,,,,0.3,,,,,,,,,,,,,130,0,100,,70,,0,8,,,,Corn,Soybeans,No-Till,12
+26634,4/10/2020,8242,BP-1,"Doe, John","Doe, John",6.2,6.5,2.4,6,,1.6,222,,,,0.3,,,,,,,,,,,,,100,0,50,,60,,0,8,,,,Sorghum Grain (Milo),Soybeans,No-Till,12
+26634,4/10/2020,8243,BP-2,"Doe, John","Doe, John",5.5,6.4,3.5,16,,8.5,238,,,,1,,,,,,,,,,,,,130,1900,40,,45,,0,0,,,,Corn,Soybeans,No-Till,12
+26634,4/10/2020,8243,BP-2,"Doe, John","Doe, John",5.5,6.4,3.5,16,,8.5,238,,,,1,,,,,,,,,,,,,100,1900,0,,40,,0,0,,,,Sorghum Grain (Milo),Soybeans,No-Till,12
+26634,4/10/2020,8244,BP-Home,"Doe, John","Doe, John",5.5,6.3,3.6,8,,13.7,323,,,,0.8,,,,,,,,,,,,,100,2150,60,,20,,0,2,,,,Sorghum Grain (Milo),Sudan,No-Till,12
+26634,4/10/2020,8244,BP-Home,"Doe, John","Doe, John",5.5,6.3,3.6,8,,13.7,323,,,,0.8,,,,,,,,,,,,,50,2150,0,,25,,0,2,,,,Soybeans,Sudan,No-Till,12
+26634,4/10/2020,8245,BP-Sudan Rd,"Doe, John","Doe, John",5.9,6.4,3.1,6,,10.7,322,,,,0.8,,,,,,,,,,,,,100,0,75,,30,,0,3,,,,Sorghum Grain (Milo),Sudan,No-Till,12
+26634,4/10/2020,8245,BP-Sudan Rd,"Doe, John","Doe, John",5.9,6.4,3.1,6,,10.7,322,,,,0.8,,,,,,,,,,,,,50,0,0,,40,,0,3,,,,Soybeans,Sudan,No-Till,12
+26634,4/10/2020,8246,WMMF 3629A,"Doe, John","Doe, John",7.9,7.4,1.9,6,,32.8,337,,,,0.9,,,,,,,,,,,,,150,0,180,,0,,0,1,,,,Corn,Corn,No-Till,12
+26634,4/10/2020,8246,WMMF 3629A,"Doe, John","Doe, John",7.9,7.4,1.9,6,,32.8,337,,,,0.9,,,,,,,,,,,,,50,0,0,,0,,0,1,,,,Soybeans,Corn,No-Till,12
+26634,4/10/2020,8247,WMMF 3629B,"Doe, John","Doe, John",7.8,7.4,3.2,6,,34.5,326,,,,0.7,,,,,,,,,,,,,150,0,155,,0,,0,4,,,,Corn,Corn,No-Till,12
+26634,4/10/2020,8247,WMMF 3629B,"Doe, John","Doe, John",7.8,7.4,3.2,6,,34.5,326,,,,0.7,,,,,,,,,,,,,50,0,0,,0,,0,4,,,,Soybeans,Corn,No-Till,12
+26634,4/10/2020,8248,WMMF 3627,"Doe, John","Doe, John",5.2,6.3,3.3,16,,39.6,396,,,,1,,,,,,,,,,,,,150,2150,115,,0,,0,0,,,,Corn,Corn,No-Till,12
+26634,4/10/2020,8248,WMMF 3627,"Doe, John","Doe, John",5.2,6.3,3.3,16,,39.6,396,,,,1,,,,,,,,,,,,,50,2150,0,,0,,0,0,,,,Soybeans,Corn,No-Till,12
