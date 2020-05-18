@@ -1,14 +1,8 @@
 # KSU fertility calculator
 
-__Name:__ Bryan Rutter  
-__Semester:__ Spring 2020  
-__Project Area:__ Soil Fertility/Agronomy  
+__Author:__ Bryan Rutter  
 
-## Objective:
-
-Create function(s) that automate the calculation of lime and fertilizer application rates based on soil test results from the KSRE Soil Testing Laboratory.
-
-## Rationale:
+## Background:
 
 Fertilizer amendments are often required to correct nutrient deficiencies in agricultural production systems. Over-fertilization increases the risk of eutrophication of surface water, while under-fertilization can lead to reduced crop yield, quality, and farm profitability. Fertilizer application rates are often based on a yield goal or an in-season estimate of crop yield potential, but should be guided by soil tests to improve their accuracy when possible. However, these calculations may involve several variables and can be cumbersome to calculate by hand. The KSRE Soil Testing Lab provides soil testing services and fertilizer recommendations to Kansas homeowners and producers. Fertilizer recommendations are reported via PDF and excel documents which are computed and compiled by proprietary third-party software. The equations used to calculate fertilizer application rates are freely available, but the third party software can often be a _black box_ and may be difficult for lab employees to troubleshoot. Creating a Python program to automate these calculations could serve as a validation and troubleshooting tool for lab workers, and make it easier to communicate potential problems with the STRS software developers.
 
